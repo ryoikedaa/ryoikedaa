@@ -1,4 +1,4 @@
-# Hello, I'm Ryo! 👋
+# Hello, I'm Ryo Ikeda! 👋
 
 ##  About Me
 - Rising sophomore at the University of Michigan studying Applied Mathematics and Data Science  
